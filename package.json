@@ -1,0 +1,15 @@
+{
+  "name": "project_9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio A. Torchia",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.8.1"
+  }
+}
